@@ -11,7 +11,7 @@
  
 after that we can install this module :
 
-`composer require darvishani/darvishani/admin-order-status:"dev-master"`
+`composer require darvishani/admin-order-status:"dev-master"`
 
 
 # Features
