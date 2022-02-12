@@ -1,0 +1,17 @@
+{
+  "name": "darvishani/admin-order-status",
+  "version": "1.0.3",
+  "description": "by this module you can add order status to each admin",
+  "type": "magento2-module",
+  "license": [
+    "Proprietary"
+  ],
+  "autoload": {
+    "files": [
+      "registration.php"
+    ],
+    "psr-4": {
+      "Darvishani\\AdminStatus\\": ""
+    }
+  }
+}
