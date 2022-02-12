@@ -46,4 +46,5 @@ _**2**- enable or disable this feature to all admins by magento config_
 
 # Contact
 
-[wegento.com](https://wegento.com/review-pro.html) || [info@wegento.com](mailto:info@wegento.com)
+[gh-darvishani.con](https://gh-darvishani.com/) 
+|| [gh.darvishani@live.com](mailto:gh.darvisahni@live.com)
