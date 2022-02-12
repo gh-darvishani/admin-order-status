@@ -3,13 +3,12 @@
 
 # **About The Project** :
  
-**This module help you to assign order status to admin. based this ability you can have better manage on your admins. also, it helps your admins to have less mistake 
+This module help you to assign order status to admin. based this ability you can have better manage on your admins. also, it helps your admins to have less mistake 
 
  
 
 # Installation
  
-after that we can install this module :
 
 `composer require darvishani/admin-order-status:"dev-master"`
 
